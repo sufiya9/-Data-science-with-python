@@ -7,11 +7,11 @@
 # val= val/2 if val>100 else val*2
 # print("<<the result is:>>",val)
 
-# name=input("enter your name")
-# if name.isalpha():
-#     print("very good")
-# else:
-#     print("not good")
+name=input("enter your name")
+if name.isalpha():
+    print("very good")
+else:
+    print("not good")
 
 
 
