@@ -1,6 +1,3 @@
-import turtle
-
-
 from turtle import *
 
 side=6
