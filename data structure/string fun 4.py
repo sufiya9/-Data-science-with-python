@@ -21,3 +21,4 @@ crap_msg='''
 clean_msg=crap_msg.strip()
 print(crap_msg)
 print(clean_msg)
+print(f"{len(crap_msg)}---->{len(clean_msg)}")
